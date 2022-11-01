@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeiza321
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning html,css ,java and python
+- 🌱 I’m currently learning html,css ,java Script, Node js and python
 - 💞️ I’m looking to collaborate on any project in relation to what i am learning.
 - 📫 How to reach me is via whatsapp +2349137073409
 
